@@ -1,5 +1,9 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00AEEF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Merve+K%C4%B1t%C4%B1r+%F0%9F%91%8B;QA+Tester+%7C+Automation+Enthusiast;Aspiring+SDET+%7C+API+Testing+Lover;Welcome+to+my+GitHub+Profile!+%F0%9F%9A%80)
 
+<p align="center">
+  <img src="https://media.giphy.com/media/cst5AXzPxRLyIwMNsV/giphy.gif" alt="Girls in Tech" width="500" />
+</p>
+
 Skilled in manual & automated testing, focused on building robust test frameworks 🔧
 
 ## 🚀 About Me
